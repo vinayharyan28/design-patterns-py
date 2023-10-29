@@ -41,7 +41,6 @@ dsa = DSA()
 sde = SDE()
 data_science = DataScience()
 
-
 teacher = Teacher()
 student = Student()
 
